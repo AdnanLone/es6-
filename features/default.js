@@ -1,12 +1,17 @@
 /**
  * Created by adnan on 4/18/16.
  */
-// function sayHello (name = 'world') {
-//     console.log('hello ' + name);
-// }
-//
-// sayHello('adnan')
-// sayHello();
+//nodemon --exec babel-node file.js
+//babel-node file.js --presets es2015
+
+//EXAMPLES
+
+function sayHello(name = 'world') {
+    console.log('hello ' + name);
+}
+
+sayHello('adnan')
+sayHello();
 
 
 function greetUser(user = {name: 'Anonymous'}) {
@@ -15,4 +20,6 @@ function greetUser(user = {name: 'Anonymous'}) {
 
 greetUser();
 
-greetUser({name: 'adnan'});
+greetUser({name: 'ali'});
+
+
