@@ -3,13 +3,7 @@
  */
 
 function reverseString(str){
-    var newStr = str.split(' '); //when a String method is us
-    //when a string method is used on a primitive string then
-    //javascript automatically converts the primitive string to an object string
-    var objStr = new String(str);
-    console.log(typeof newStr );
-    console.log(typeof objStr);
-    return str;
+    return str.split('').reverse().join('');
 }
 
-console.log(reverseString('Hello'));
+console.log(reverseString('Hello asssssds'));
