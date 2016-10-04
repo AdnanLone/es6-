@@ -37,8 +37,11 @@ Class,
 Please make sure that you complete watching these four videos. These videos provide background onWireshark as well as using Windows for forensics using sysinternals. Once you complete watching these videos, please write up a brief summary for submission.
 
 1) Wireshark Network Forensics – https://www.youtube.com/watch?v=UXAHvwouk6Q
+
 2) Analyze A Bot Infected Host With Wireshark – https://www.youtube.com/watch?v=_JjU4fbgkAc
+
 3) Malware Hunting with the Sysinternals Tools – https://www.youtube.com/watch?v=Wuy_Pm3KaV8
+
 4) Sharkfest 2013 Deep Dive Packet Analysis Session –https://www.youtube.com/watch?v=w-hTNGZRaSQ&feature=youtu.be&t=379
 
 Summary report should contain the following for each video and should be submitted individually.
