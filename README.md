@@ -1,3 +1,6 @@
+virtualization container
+keep laptop ready
+
 # es6-
 
 links for android by codepath
